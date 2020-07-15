@@ -1,0 +1,25 @@
+* {
+    color: chocolate;
+    padding: 0px;
+    font-size: 28px;
+}
+
+
+
+h3 {
+
+    color: red;
+    font-size: xx-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+input {
+    background-color: darkcyan;
+    font-size: xx-large;
+    color: white;
+}
+
+input[type="text"] {
+    background-color: yellow;
+    color: black;
+}
