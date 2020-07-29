@@ -1,1 +1,6 @@
-print ("Graças a Deus!")
+print ("Olá")
+
+
+idade = int(input("Idade: "))
+print (idade)
+
